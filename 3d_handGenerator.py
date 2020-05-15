@@ -1,5 +1,6 @@
 # Lint as: python3
-"""This program creates the blender scene:
+"""This sample code is a direct and linear approach to
+generating 3d hand renders with a blender scene:
 1. Create a scene in Blender.
 2. Import 3d Hand obect.
 3. Import a random object.
